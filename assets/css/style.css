@@ -5174,4 +5174,22 @@ hr {
 .faq-area {
   padding-bottom: 40px;
 }
+.contact-wrapper {
+  background: var(--color-white);
+  border-radius: 10px;
+  border-right: none;
+  border-bottom: 5px solid #ff672b;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 0px 8px;
+}
+.quote-wrapper {
+  background: var(--color-white);
+  border-right: none;
+  border-bottom: 5px solid #ff672b;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 0px 8px;
+}
+}
+.choose-content {
+  margin-top: -50px;
+  padding-bottom: 50px;
 }
