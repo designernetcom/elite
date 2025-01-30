@@ -5088,7 +5088,6 @@ label {
 }
 .feature-item1{
   height: 100%;
-  margin-bottom: 40px;
 }
 .feature-icons {
   text-align: center;
@@ -5152,11 +5151,14 @@ hr {
   .about-experience {
     display: none;
   }
-  .feature-item1{
-    margin-bottom: 20px !important;
-  }
+  
   .site-title {
     font-size: 35px;
+    margin-top: 40px;
+}
+.choose-content {
+  margin-top: -50px;
+  padding-bottom: 0px !important;
 }
 .quote-img{
   display: none;
@@ -5192,4 +5194,7 @@ hr {
 .choose-content {
   margin-top: -50px;
   padding-bottom: 50px;
+}
+.feature-wrapper .col-lg-3, .col-lg-6{
+  margin-bottom: 30px;
 }
